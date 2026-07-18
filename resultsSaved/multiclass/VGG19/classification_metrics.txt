@@ -1,0 +1,12 @@
+Weighted Precision: 0.9499
+Weighted Recall: 0.9490
+Macro Sensitivity: 0.9480
+Macro Specificity: 0.9898
+Weighted F1-Score: 0.9488
+Macro-average AUC: 0.9983
+Matthews Correlation Coefficient: 0.9389
+Cohen's Kappa: 0.9387
+Balanced Accuracy: 0.9480
+Weighted Jaccard Index: 0.9039
+Log Loss: 0.1699
+Weighted F0.5-Score: 0.9493

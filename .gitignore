@@ -1,0 +1,7 @@
+animals/
+animals_dataset/
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.webp
